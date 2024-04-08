@@ -10,4 +10,3 @@ export default function taskBlock(trueOrFalse) {
   /* eslint-enable no-unused-vars */
 
   return [task, task2];
-}
